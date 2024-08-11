@@ -1,0 +1,2 @@
+# fisokuma
+ bilgi fisi
